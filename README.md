@@ -4,18 +4,18 @@
 
 ## 사전 워크샵
 
-### 1주차
+### [1주차](./workshop/week-01/README.md)
 
 - 개발 환경 설정
 - GitHub Copilot 활용 간단한 앱 만들어보기
 - GitHub Copilot 활용 앱 설계하기
 
-### 2주차
+### [2주차](./workshop/week-02/README.md)
 
 - GitHub Copilot 활용 앱 개발하기
 - GitHub Copilot 활용 앱 테스트하기
 
-### 3주차
+### [3주차](./workshop/week-03/README.md)
 
 - GitHub Copilot 활용 앱 배포하기
 
