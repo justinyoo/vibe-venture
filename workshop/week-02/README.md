@@ -12,12 +12,9 @@
 - GitHub CLI 로그인: `gh auth login`
 - GitHub Copilot CLI 로그인: `copilot login`
 
-TBD
-
-<!--
-  - Azure 클라우드 로그인
-  - Azure CLI: `az login --tenant innodgvibeventure.onmicrosoft.com --use-device-code`
-  - Azure Developer CLI: `azd auth login --tenant-id innodgvibeventure.onmicrosoft.com`
+- Azure 클라우드 로그인
+- Azure CLI: `az login --tenant innodgvibeventure.onmicrosoft.com --use-device-code`
+- Azure Developer CLI: `azd auth login --tenant-id innodgvibeventure.onmicrosoft.com`
 
 ## GitHub Copilot 활용 간단한 앱 만들어보기
 
@@ -82,4 +79,3 @@ TBD
     - 기술 스택
   - 앱 구조
   - 앱 보안
--->
